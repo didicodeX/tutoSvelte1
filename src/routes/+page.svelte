@@ -10,7 +10,6 @@
 
 </script>
 
-
 <!-- {JSON.stringify(todos)}
 
 {todofield}
